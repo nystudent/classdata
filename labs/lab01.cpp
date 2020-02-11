@@ -2,6 +2,10 @@
   Date: Feb 11
   Assignment: In-class Lab01
   Name: <Your First and Last Name>
+
+  To compile: g++ -o lab01 lab01.cpp
+  To execute: ./lab01
+
 */
 
 #include<iostream>
