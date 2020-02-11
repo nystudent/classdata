@@ -1,6 +1,6 @@
 /*
   Date: Feb 11
-  Assignment: In-clas Lab01
+  Assignment: In-class Lab01
   Name: <Your First and Last Name>
 */
 
@@ -26,3 +26,7 @@ int main()
     return 0;
 
 } // end of the main function
+
+
+
+
