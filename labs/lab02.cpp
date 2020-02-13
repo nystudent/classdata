@@ -1,6 +1,6 @@
 /*
   Date: Feb 13
-  Assignment: In-class Lab01
+  Assignment: In-class Lab02
   Name: <Your First and Last Name>
 
   To compile: g++ -o lab02 lab02.cpp
