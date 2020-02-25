@@ -32,8 +32,9 @@ int main()
     cout << "Task 1\n";
     cout << "Enter an integer: ";
     cin >> x;
-
-    //Assign solution to task 1 to r1; 
+    
+    // TODO:
+    // Assign solution to task 1 to r1; 
     bool r1 = false;
     
     cout << "It is " << r1 << " that " << x << " is a multiple of both 3 and 5\n\n";
@@ -50,6 +51,7 @@ int main()
     cout << "Enter another number: ";
     cin >> t;
 
+    // TODO:
     //Assign solution to task 2 to r2; 
     bool r2 = false;
     
@@ -65,7 +67,8 @@ int main()
     cout << "Enter an integer: ";
     cin >> n;
 
-    //Assign solution to task 3 to r3; 
+    // TODO:
+    // Assign solution to task 3 to r3; 
     bool r3 = false;
     
     cout << "It is " << r3 << " that " << n << " is a three digit number\n\n";
@@ -80,7 +83,8 @@ int main()
     cout << "Enter a day: ";
     cin >> dy;
 
-    //Assign solution to task 4 to r4; 
+    // TODO:
+    // Assign solution to task 4 to r4; 
     bool r4 = false;
     
     cout << "It is " << r4 << " that " << dy << " fell on a Monday in the month of February 2020\n\n";
@@ -88,13 +92,14 @@ int main()
 
     
 
-    //
+    // 
     // Task 5 Begins
     cout << "Task 5\n";
     cout << "Enter a word: ";
     cin >> val;
 
-    //Assign solution to task 5 to r5; 
+    // TODO:
+    // Assign solution to task 5 to r5; 
     bool r5 = false;
     
     cout << "It is " << r5 << " that " << val << " equals some version of \"no\"\n\n";
@@ -108,12 +113,12 @@ int main()
     cout << "Enter a year: ";
     cin >> yr;
 
-    //Assign solution to task 6 to r6; 
+    // TODO: 
+    // Assign solution to task 6 to r6; 
     bool r6 = false;
     
     cout << "It is " << r6 << " that " << yr << " is a leap year\n\n";
     // Task 6 Ends
-
 
 
     
