@@ -22,7 +22,7 @@ int main()
     // declare two double variables s, t
     // declare integer variable n
     // declare integer variable dy
-    // declare string fariable val
+    // declare string variable val
     // declare ineger variable yr
 
     
@@ -37,7 +37,7 @@ int main()
     // Assign solution to task 1 to r1; 
     bool r1 = false;
     
-    cout << "It is " << r1 << " that " << x << " is a multiple of both 3 and 5\n\n";
+    cout << "It is " << r1 << " that " << x << " is a multiple of both 3 and 7\n\n";
     // Task 1 Ends
 
 
@@ -52,7 +52,7 @@ int main()
     cin >> t;
 
     // TODO:
-    //Assign solution to task 2 to r2; 
+    // Assign solution to task 2 to r2; 
     bool r2 = false;
     
     cout << "It is " << r2 << " that " << s << " and " << t << " have the same sign\n\n";
