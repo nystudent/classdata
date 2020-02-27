@@ -14,7 +14,7 @@ using namespace std;
 
 int main()
 {    
-    cout << "Task 0 \n";
+    cout << " Task 0 \n";
     // TODO:
 
 
