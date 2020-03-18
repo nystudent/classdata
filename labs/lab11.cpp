@@ -9,7 +9,7 @@ int main()
 
     // Task 0 End
 
-    cout << "\nSection II\n";
+    cout << "\nTask 1\n";
     // Task 1 Begin
     // TODO:
 
