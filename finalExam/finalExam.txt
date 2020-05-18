@@ -13,13 +13,13 @@ b) // Todo
 c) // Todo
 
 
-e) // Todo
+d) // Todo
 
 
-f)// Todo
+e)// Todo
 
 
-g) // Todo
+f) // Todo
 
 End  of the solutions for Implementation:
 
