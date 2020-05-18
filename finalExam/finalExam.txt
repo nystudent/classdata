@@ -39,7 +39,7 @@ End of the solutions for Tracing:
 
 Start of the solution for Debugging
 
-// Todo: For each line that has a syntax error in the program below, write its line number and its line correction. 
+// Todo: For each line that has a syntax error, write its line number and its line correction. 
 
 
 
