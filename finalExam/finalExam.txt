@@ -2,8 +2,8 @@ Solutions for cs151-040 final exam
 Student name: <your name here>
 Date: 05/18/2020
 
-
-Start of solutions for Implementation:
+##################################################################
+Start of the solutions for Implementation:
 a)  // Todo
 
 
@@ -21,23 +21,29 @@ f)// Todo
 
 g) // Todo
 
-End  of solutions for Implementation:
+End  of the solutions for Implementation:
 
 
 
-Use the tracing template to complete the trace-table of the code below. Afterward, upload your
-PDF file containing the trace-table to cs151/finalExam directory on your Google Cloud Shell and push the
-files to GitHub. Note: make sure to name your PDF file as TraceFinal.pdf
+##################################################################
+Start of the solutions for Tracing:
+
+ Please see the final exam pdf file.
+
+End of the solutions for Tracing:
 
 
 
-Start of solutions for Debugging
+
+##################################################################
+
+Start of the solution for Debugging
 
 // Todo: For each line that has a syntax error in the program below, write its line number and its line correction. 
 
 
 
-End of solutions for Debugging
+End of the solution for Debugging
 
 
 
